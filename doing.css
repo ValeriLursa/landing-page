@@ -1,0 +1,31 @@
+.doing {
+    background: linear-gradient(7deg, #DB7E7E 18.07%, #FFC997 70%, #FFFFFF 70%);
+}
+
+.doing-left {
+    display: inline-block;
+    width: 45%;
+    vertical-align: top;
+}
+
+.doing-title {
+    /* margin-bottom: 30px; */
+}
+
+.doing-text {
+    background: white;
+    padding: 30px;
+    border-radius: 30px;
+    box-shadow: 10px 10px 0 #E06161;
+}
+
+.doing-right {
+    display: inline-block;
+    width: 45%;
+    vertical-align: middle;
+}
+
+.doing-right img {
+    height: 100%;
+    margin: 50px 0 0 15px;
+}

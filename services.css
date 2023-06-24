@@ -1,0 +1,35 @@
+.services {
+    background: linear-gradient(340.62deg, #FFFFFF 45.63%, #DB7F7E 45.64%);
+    text-align: center;
+}
+
+.services-title {
+    color: white;
+}
+
+.service {
+    border: 1px solid #FFC997;
+    border-radius: 30px;
+    background-color: white;
+
+    display: inline-block;
+    width: 28%;
+    height: 400px;
+
+    padding: 15px;
+    margin: 10px 20px;
+    vertical-align: top;
+}
+
+.service-title{
+    font-size: 25px;
+    margin: 10px 0;
+}
+
+.service-hr{
+    height: 2px;
+    background-color: #E06161;
+    width: 60%;
+    margin: 10px auto;
+    border: none;
+}

@@ -1,0 +1,82 @@
+@media(max-width:768px) {
+    .nav-menu {
+        width: 100%;
+        height: fit-content;
+    }
+
+    .nav-logo {
+        width: 80px;
+    }
+
+    .nav-item {
+        display: block;
+    }
+
+    .main-content-header {
+        font-size: 40px;
+        text-align: center;
+    }
+
+    .main-content-btn {
+        width: 200px;
+        height: 60px;
+        font-size: 12px;
+        line-height: 60px;
+    }
+
+    .section-title {
+        font-size: 30px;
+    }
+
+    .section-text {
+        font-size: 16px;
+    }
+
+    .doing-left {
+        display: block;
+        width: 100%;
+    }
+
+    .doing-right{
+        display: block;
+        width: 100%;
+    }
+
+    .doing-right img{
+        width: 100%;
+        margin-left: 0;
+    }
+
+    .doing-text{
+        box-shadow: 0 15px 0 #E06161;
+    }
+
+    .service{
+        display: block;
+        width: 100%;
+        margin: 10px 0;
+    }
+
+    .advantages-card{
+        width: 100%;
+        box-shadow: 0 10px 0 #E06161;
+    }
+
+    .advantages-card1,
+    .advantages-card2,
+    .advantages-card3{
+        left: 0;
+    }
+
+    .advantages-hexagon{
+        width: 270px;
+    }
+
+    .portfolio-mobile{
+        display: block;
+    }
+
+    .portfolio-table{
+        display: none;
+    }
+}

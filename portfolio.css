@@ -1,0 +1,41 @@
+.portfolio-table{
+    width: 100%;
+    height: 600px;
+}
+
+.cell1{
+    background: url(img/portfolio/site1.png) center/cover no-repeat;
+}
+
+.cell2{
+    background: url(img/portfolio/site2.png) center/cover no-repeat;
+}
+
+.cell3{
+    background: url(img/portfolio/site3.png) center/cover no-repeat;
+}
+
+.cell4{
+    background: url(img/portfolio/site4.png) center/cover no-repeat;
+}
+
+.portfolio-cell{
+    border: 5px solid #E06161;
+    border-radius: 30px;
+    transform: 0.5s;
+}
+
+.portfolio-cell:hover{
+    transform: scale(0.9);
+}
+
+.portfolio-mobile{
+    display: none;
+}
+
+.portfolio-mobile-cell{
+    display: block;
+    width: 100%;
+    border: 5px solid #E06161;
+    border-radius: 30px;
+}
